@@ -8,14 +8,14 @@
 
 ---
 
-## **A**. Giới thiệu
+## Giới thiệu
 
  [+] **Binary Editor** là công cụ GUI cho phép user chỉnh sửa từng _bit_ một trong một file `.bin`, `.img`, `.boot`...    
  [+] Đặc biệt phù hợp với người học **machine code**, **real mode**, hoặc chỉ đơn giản là... **thích kiểm soát từng bit**.
 
 ---
 
-## **B**. Tính năng chính
+## Tính năng chính
 
 [+] Giao diện trực quan với GUI  
 [+] Tạo file mới theo chuẩn `boot sector`, `1KB`, `4KB`,...  
@@ -27,7 +27,7 @@
 
 ---
 
-## **C**. Giao diện
+## Giao diện
 
 <p align="center">
   <img src="https://github.com/0xDice/Binary_Editor/blob/main/img/screenshot.png" alt="GUI Screenshot" width="80%">
@@ -35,7 +35,7 @@
 
 ---
 
-## **D**. Cài đặt
+## Cài đặt
 
 ### Windows:
 
