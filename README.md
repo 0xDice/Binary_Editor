@@ -1,8 +1,7 @@
 <h1 align="center"> Binary Editor </h1>
 
 <p align="center">
-   <strong>Trình chỉnh sửa nhị phân cho cả linux & windows</strong> <br>
-  <em>☆*: .｡. o(≧▽≦)o .｡.:*☆</em><br><br>
+   <strong>Trình chỉnh sửa nhị phân cho cả linux & windows</strong> <br><br><br>
   <img src="https://img.shields.io/badge/version-v0.0.0-blueviolet?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/github/stars/0xDice/Binary_Editor?style=social" alt="Stars">
 </p>
