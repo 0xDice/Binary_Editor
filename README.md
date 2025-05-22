@@ -31,7 +31,7 @@
 ## [!] Giao diện
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your_screenshot_here.png" alt="GUI Screenshot" width="80%">
+  <img src="https://user-images.githubusercontent.com/screenshot.png" alt="GUI Screenshot" width="80%">
 </p>
 
 ---
