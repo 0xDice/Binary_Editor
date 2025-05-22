@@ -10,9 +10,9 @@
 
 ## Giới thiệu
 
- [+] **Binary Editor** là công cụ GUI cho phép user chỉnh sửa từng _bit_ một trong một file `.bin`, `.img`, `.boot`...    
- [+] Đặc biệt phù hợp với người học **machine code**, **real mode**, hoặc chỉ đơn giản là... **thích kiểm soát từng bit**.
- [+] v0.0.0 hỗ trợ duy nhất `Tiếng Việt`. Các models sau sẽ vẫn tiếp tục hỗ trợ.
+[+] **Binary Editor** là công cụ GUI cho phép user chỉnh sửa từng _bit_ một trong một file `.bin`, `.img`, `.boot`...    
+[+] Đặc biệt phù hợp với người học **machine code**, **real mode**, hoặc chỉ đơn giản là... **thích kiểm soát từng bit**.
+[+] v0.0.0 hỗ trợ duy nhất `Tiếng Việt`. Các models sau sẽ vẫn tiếp tục hỗ trợ.
 
 ---
 
