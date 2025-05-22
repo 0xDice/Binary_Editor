@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Download Binary Editor Page</title>
+</head>
+<body>
+    <h1>ALL RELEASES :</h1>
+    <button onclick="downloadFile('win')">Tải bản Windows (.exe)</button>
+    <button onclick="downloadFile('linux')">Tải bản Linux (.elf)</button>
+
+    <script>
+        function downloadFile(platform) {
+            let url = "";
+            if (platform === "win") {
+                url = "https://github.com/0xDice/Binary_Editor/releases/download/v0.0.0/binary_editor_v0.0.0.exe";
+            } else if (platform === "linux") {
+                url = "https://github.com/0xDice/Binary_Editor/releases/download/v0.0.0/binary_editor_v0.0.0";
+            }
+
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = '';  
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
+</body>
+</html>
